@@ -1,4 +1,0 @@
-Hi my name is Seepra
-I am 27 years
-I stay at Pune
-This is my 1st commit
